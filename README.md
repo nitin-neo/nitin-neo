@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitin-neo
+- 👋🏼Hi, I’m @nitin-neo
 - 👀 I’m interested in new ideas
 - 🌱 I’m currently mastering the whole java ecosystem
 - 💞️ I’m looking to collaborate on exciting project ventures
