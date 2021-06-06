@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitin-neo
 - 👀 I’m interested in new ideas
-- 🌱 I’m currently mastering whole java ecosystem
-- 💞️ I’m looking to collaborate on interesting project ventures
+- 🌱 I’m currently mastering the whole java ecosystem
+- 💞️ I’m looking to collaborate on exciting project ventures
 - 📫 How to reach me nitingandhi.neo@gmail.com
 
 <!---
